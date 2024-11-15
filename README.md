@@ -7,7 +7,7 @@ An interactive RAG AI application that allows users to ask questions about selec
 
 - **Document Loading:** Automatically loads and processes documents from a specified directory.
 - **Interactive Widgets:** Allows users to select documents and ask questions via Jupyter Notebook widgets.
-- **AI-Powered Responses:** Uses the Ollama language model to generate answers based on document content.
+- **AI-Powered Responses:** Uses the Llama3.2 language model to generate answers based on document content.
 - **Multi-format Support:** Supports PDF, TXT, DOCX, and DOC file formats.
 - **Conversation History:** Maintains a history of interactions for context-aware responses.
 
